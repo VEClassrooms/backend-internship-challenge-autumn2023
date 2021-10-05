@@ -7,10 +7,9 @@ You should extend this website to fetch and search data from a database.
 ## Get up and running
 
 1. Make sure you have [.NET 5.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0) installed.
-2. Accept the Github Classroom assignment.
-3. Clone and open the project backend-internship-challenge-spring2022/Web in your prefered IDE (VS Code, Visual Studio etc.).
-4. Build and Run the project backend-internship-challenge-spring2022/Web.
-5. You should see a web page with a list of two documents. 
+2. Clone and open the project backend-internship-challenge-spring2022/Web in your prefered IDE (VS Code, Visual Studio etc.).
+3. Build and Run the project backend-internship-challenge-spring2022/Web.
+4. You should see a web page with a list of two documents. 
 
 ## Assignment
 
@@ -28,7 +27,7 @@ On the web page there is a search textbox that posts the search string to a cont
 
 * Search in FileName, FirstName and LastName.
 * The search should be done on the server (not in the browser).
-* Implement search as good as you can.
+* Implement search as good as you can. Think about how the user would like the search to work.
 
 ## Submit your contribution
 
