@@ -13,7 +13,7 @@ You should extend this website to fetch and search data from a database.
 
 ## Assignment
 
-The documents are not fetched from a database. You should create a database and fetch documents from that database and implement search.
+The documents are not fetched from a database. You should create a database and fetch documents from that database and implement search. Document your toughts and 
 
 ### Fetch data from a database
 
@@ -28,6 +28,10 @@ On the web page there is a search textbox that posts the search string to a cont
 * Search in FileName, FirstName and LastName.
 * The search should be done on the server (not in the browser).
 * Implement search as good as you can. Think about how the user would like the search to work.
+
+### Document your assignment process
+
+Document how your search works and how your thought process went during the assignment in a separate Markdown (.md) file.
 
 ## Submit your contribution
 
