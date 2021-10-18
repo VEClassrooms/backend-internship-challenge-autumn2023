@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using web.Backend.Models;
+using Web.Backend.Models;
 
-namespace web.Backend
+namespace Web.Backend
 {
     public static class DatabaseAccess
     {

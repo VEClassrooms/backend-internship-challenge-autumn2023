@@ -1,6 +1,6 @@
 using System;
 
-namespace web.Backend.Models
+namespace Web.Backend.Models
 {
     public class Document
     {

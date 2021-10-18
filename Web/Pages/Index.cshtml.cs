@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
-using web.Backend;
-using web.Backend.Models;
+using Web.Backend;
+using Web.Backend.Models;
 
-namespace web.Pages
+namespace Web.Pages
 {
     public class IndexModel : PageModel
     {
