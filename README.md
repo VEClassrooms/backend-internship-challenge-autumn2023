@@ -13,7 +13,7 @@ You should extend this website to fetch and search data from a database.
 
 ## Assignment
 
-The documents are not fetched from a database. You should create a database and fetch documents from that database and implement search. Document your toughts and 
+The documents are not fetched from a database. You should create a database and fetch documents from that database and implement search. Document your toughts and how you solved the assignment.
 
 ### Fetch data from a database
 
