@@ -13,13 +13,17 @@ You should extend this website to fetch and search data from a database.
 
 ## Assignment
 
-The documents are not fetched from a database. You should create a database and fetch documents from that database and implement search. Document your toughts and how you solved the assignment.
+The documents are not fetched from a database. You should create a database and fetch documents from that database and implement search. Write the code as simple and lean as you can. Document your toughts and how you solved the assignment.
+
+### Preparation
+
+Create a MS SQL Server Database. Create it locally on your machine or a Azure SQL Database.
+
+Run the script FillDatabase.sql against your database to create tables and insert data to work with.
 
 ### Fetch data from a database
 
-1. Create a MS SQL Server Database
-2. Run the script FillDatabase.sql to create tables and insert data
-3. Rewrite the code in DatabaseAccess.cs to fetch the documents from the database. Use your prefered technique for fetching the data (ADO.NET, Entity Framework etc.).
+Rewrite the code in DatabaseAccess.cs to fetch the documents from the database. Use your prefered technique for fetching the data (ADO.NET, Entity Framework etc.).
 
 ### Implement search
 
