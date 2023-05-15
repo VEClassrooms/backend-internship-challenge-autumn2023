@@ -8,14 +8,16 @@ You should extend this website to fetch and search data from a database.
 
 1. Make sure you have [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) installed.
 2. Clone and open the project backend-internship-challenge-autumn2022/Web in your prefered IDE (VS Code, Visual Studio etc.).
-3. Build and Run the project backend-internship-challenge-autumn2022/Web.
-4. You should see a web page with a list of two documents. 
+4. Build and Run the project backend-internship-challenge-autumn2022/Web.
+5. You should see a web page with a list of two documents.
 
 ## Assignment
 
 The documents are not fetched from a database. You should create a database and fetch documents from that database and implement search. Write the code as simple and lean as you can. Document your toughts and how you solved the assignment in a Markdown (.md) file.
 
 ### Preparation
+
+Create a new branch and check it out (commit your changes to this new branch).
 
 Create a MS SQL Server Database. Create it locally on your machine or a Azure SQL Database.
 
@@ -41,5 +43,6 @@ Document how your search works and how your thought process went during the assi
 
 This description describes how you complete the assignment you got from Github Classroom.
 
-* Commit your changes
+* Make sure you have committed your changes to the new branch
 * Push changes to the Github Classroom repository
+* Create a Pull request to merge you new branch to main
