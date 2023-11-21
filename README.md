@@ -1,6 +1,6 @@
-# Backend Internship Challenge Autumn 2022
+# Backend Internship Challenge Autumn 2023
 
-This is a selection test for backend developers applying for internship at ViaEcole in the autumn of 2022.
+This is a selection test for backend developers applying for internship at ViaEcole in the autumn of 2023.
 
 You should extend this website to fetch and search data from a database.
 
